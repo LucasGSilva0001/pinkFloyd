@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color:rgb(40, 40, 40);
+    color: white;
+}
+
+.titulo{
+    font-family: unset;
+    font-size: 100px;
+    text-align: center;
+    color: palevioletred;
+    margin: 24pt;
+    padding-bottom: 100pt;
+}
+
+h2{
+    font-family: unset;
+    font-size: 40px;
+    text-align: center;
+    color: palevioletred;
+    padding-bottom: 50pt;
+}
+
+p{
+    font-family: unset;
+    font-size: 30px;
+    padding-left: 80pt;
+    padding-right: 80pt;
+    text-align: justify;
+    color: lightgray;
+    padding-bottom: 50pt;
+}
+
+pre{
+    font-family: unset;
+    font-size: 30px;
+    color: lightgray;
+}
+
+.integrantes{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding-bottom: 50pt;
+}
+
+.darksideofthemoon{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding-bottom: 50pt;
+}
+
+.thewall{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding-bottom: 50pt;
+}
+
+.wishyouwerehere{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding-bottom: 50pt;
+}
+
+.thedivisionbell{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding-bottom: 50pt;
+}
